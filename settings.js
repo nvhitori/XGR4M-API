@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'XGR4MTEAM' 
 global.apikey = ["xgram", "hitori", "bochi", "exorcist"]
-global.lolkey = "ywxzyy"
+global.lolkey = "yourapikey"
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
