@@ -1,12 +1,13 @@
-//LO SIAPA?
-// Thanks to
+// Gada reupload" 😏
+// Klo mau colong fitur, jgn asal colong bodoh ntr api eror
+
+// Thanks to ( jgn di hapus jamet)
 /*
 <p> Loli Killers</p>
 <p> Rynz</p>
 <p> Eka Danuarta</p>
 <p> ZeeoneOfc </p>
 <p> Creative Time [ For Template ]</p>
-<p> XGRAM ( RECODE )
 <p> ALL HUMAN</p>
 */
 __path = process.cwd();
@@ -64,7 +65,7 @@ loghandler = {
 }
 
 var len = 15
-        var arr = 'abcdrfghijopqrstuvwxnxx'
+        var arr = '123456789abcdefghijklmnopqrstuvwxyz'
         var random = '';
 
         for (var i = len; i > 0; i--) {
