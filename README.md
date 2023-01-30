@@ -1,10 +1,10 @@
-# XGR4M-API
+
 
 <p align="center">
 <a href="#"><img title="Rest-Api" src="https://img.shields.io/badge/Rest Api Free-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/inirey"><img title="Author" src="https://img.shields.io/badge/AUTHOR-SEKHA-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/inirey"><img title="Author" src="https://img.shields.io/badge/AUTHOR-V4LL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/nvhitori/XGR4M-API/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/nvhitori/XGR4M-API/badge/master"></a>
@@ -17,6 +17,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finirey%2FRESTAPI&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 
-# How?
+#
  
  Can only be used in replit.
