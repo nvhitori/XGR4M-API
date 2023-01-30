@@ -4,11 +4,10 @@
 <a href="#"><img title="Rest-Api" src="https://img.shields.io/badge/Rest Api Free-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/inirey"><img title="Author" src="https://img.shields.io/badge/AUTHOR-V4LL-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/nvhitori"><img title="Author" src="https://img.shields.io/badge/AUTHOR-V4LL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a "href="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api/overview/main"><img "
- https://www.codefactor.io/repository/github/nvhitori/XGR4M-API/overview/main#:~:text=href%3D%22https%3A//www.codefactor.io/repository/github/nvhitori/xgr4m%2Dapi/overview/main%22%3E%3Cimg"><img title="Rating" src="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api/badge/master"></a>
+<a "href="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api/overview/main"><img
 </p>
 <p align="center">
 <a href="https://github.com/inirey/followers"><img title="Followers" src="https://img.shields.io/github/followers/inirey?color=blue&style=flat-square"></a>
