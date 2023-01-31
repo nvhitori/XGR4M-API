@@ -10,7 +10,7 @@
 <a href="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api"><img src="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api/badge" alt="CodeFactor" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/nvhitori/followers"><img title="Followers" src="https://img.shields.io/github/followers/inirey?color=blue&style=flat-square"></a>
+<a href="https://github.com/nvhitori/followers"><img title="Followers" src="https://img.shields.io/github/followers/nvhitori?color=blue&style=flat-square"></a>
 <a href="https://github.com/nvhitori/XGR4M-API/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nvhitori/XGR4M-API?color=red&style=flat-square"></a>
 <a href="https://github.com/nvhitori/XGR4M-API/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nvhitori/XGR4M-API?color=red&style=flat-square"></a>
 <a href="https://github.com/nvhitori/XGR4M-API/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nvhitori/XGR4M-API?label=Watchers&color=blue&style=flat-square"></a>
