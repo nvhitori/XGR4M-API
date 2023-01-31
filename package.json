@@ -1,7 +1,7 @@
 {
-  "name": "api-mirip-lolhuman",
+  "name": "XGR4M-API",
   "version": "2.0.0",
-  "description": "Rest api update by Zeeoneofc",
+  "description": "Rest Api XGR4M",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeone-ofc/api-mirip-lolhuman.git"
+    "url": "git+https://github.com/nvhitori/XGR4M-API.git"
   },
   "keywords": [
     "botwa",
@@ -20,10 +20,10 @@
     "website",
     "api-mirip-lolhuman"
   ],
-  "author": "Zeeoneofc",
+  "author": "XGR4M",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeone-ofc/api-mirip-lolhuman/issues"
+    "url": "https://github.com/nvhitori/XGR4M-API/issues"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
@@ -59,5 +59,5 @@
     "ssl-express-www": "^3.0.7",
     "urlencode": "^1.1.0"
   },
-  "homepage": "https://github.com/zeeone-ofc/api-mirip-lolhuman#readme"
+  "homepage": "https://github.com/nvhitori/XGR4M-API#readme"
 }
