@@ -7,7 +7,7 @@
 <a href="https://github.com/nvhitori"><img title="Author" src="https://img.shields.io/badge/AUTHOR-V4LL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-src="https://www.codefactor.io/repository/github/nvhitori/xgr4m-api/badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/nvhitori/XGR4M-API/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/nvhitori/XGR4M-API/badge/master"></a>
 </p>
 <p align="center">
 <a href="https://github.com/inirey/followers"><img title="Followers" src="https://img.shields.io/github/followers/inirey?color=blue&style=flat-square"></a>
