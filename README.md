@@ -14,7 +14,7 @@
 <a href="https://github.com/nvhitori/XGR4M-API/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nvhitori/XGR4M-API?color=red&style=flat-square"></a>
 <a href="https://github.com/nvhitori/XGR4M-API/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nvhitori/XGR4M-API?color=red&style=flat-square"></a>
 <a href="https://github.com/nvhitori/XGR4M-API/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nvhitori/XGR4M-API?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finirey%2FRESTAPI&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnvhitori%2FXGR4M-API&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 
 #
